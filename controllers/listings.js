@@ -85,6 +85,7 @@ module.exports.createListing=async (req,res,next) => {
       res.redirect("/listings");
   
     }catch(err){
+        console.log(err);
   
       next(err);
   
