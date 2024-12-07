@@ -74,7 +74,7 @@ Setup Instructions:
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/airbnb-clone.git
+git clone https://github.com/RUPENDER 30062003/airbnb-clone.git
 
 
 2. Install dependencies:
